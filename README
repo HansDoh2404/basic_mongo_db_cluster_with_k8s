@@ -28,8 +28,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/HansDoh2404/youtube_videos_2025_lakehouse.git">
-    <img src="images/architecture.png" alt="archi" width="800" height="800">
+  <a href="https://github.com/HansDoh2404/basic_mongo_db_cluster_with_k8s.git">
   </a>
  
   <h3 align="center">basic_mongo_db_cluster_with_k8s</h3>
@@ -56,4 +55,3 @@ This project explains and demonstrates how to deploy a simple MongoDB cluster wi
 - **Minikube** - https://minikube.sigs.k8s.io/docs/start/ : local cluster with master and worker for using kubernetes
 - **Kubectl** - https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/ : command line tool to interact with your k8s cluster
 - **Docker** - https://www.docker.com/get-started/ : container manager for launching container inside pod
-

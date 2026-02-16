@@ -29,6 +29,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/HansDoh2404/basic_mongo_db_cluster_with_k8s.git">
+  <img src="architecture.png" alt="archi" width="800" height="800">
   </a>
  
   <h3 align="center">basic_mongo_db_cluster_with_k8s</h3>

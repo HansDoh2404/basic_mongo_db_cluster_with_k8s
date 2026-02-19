@@ -114,7 +114,9 @@ This project explains and demonstrates how to deploy a simple MongoDB cluster wi
 8. Access the wep app in the browser :
 
   host : *mongo-express.com*
+  <br />
   username : *username*
+  <br />
   password : *password*
 
 <!-- CONTACT -->

@@ -84,32 +84,32 @@ This project explains and demonstrates how to deploy a simple MongoDB cluster wi
    ```
 
 5. Authorize and apply ingress :
-  ```sh
-  minikube addons enable ingress # authorize ingress
-  kubectl apply -f mongo-secret-tls.yaml # configuring the certificates for secure connection
-  kubectl apply -f mongo-ingress.yaml # apply ingress
-  ```
+   ```sh
+   minikube addons enable ingress # authorize ingress
+   kubectl apply -f mongo-secret-tls.yaml # configuring the certificates for secure connection
+   kubectl apply -f mongo-ingress.yaml # apply ingress
+   ```
 
 6. Mapping the ip address and the domain name :
-  ```sh
-  -- run the command below
-  minikube service mongo-express-service
+   ```sh
+   -- run the command below
+   minikube service mongo-express-service
 
-  -- Copy the ip_address into the URL section and go to that file
-  sudo nano /etc/hosts 
+   -- Copy the ip_address into the URL section and go to that file
+   sudo nano /etc/hosts 
 
-  -- Copy and paste it into the file, replace <ip_address> with the right
-  <ip_address>   mongo-express.com 
-  ```
+   -- Copy and paste it into the file, replace <ip_address> with the right
+   <ip_address>   mongo-express.com 
+   ```
 
 7. Ensure that all is running fine :
-  ```sh
-  kubectl get pods # checking the pods
-  kubectl get services # checking the pods
-  kubectl get pv # checking the persistent volume
-  kubectl get pvc # checking the persistent volume claim
-  kubectl get nodes # cheking the nodes
-  ```
+   ```sh
+   kubectl get pods # checking the pods
+   kubectl get services # checking the pods
+   kubectl get pv # checking the persistent volume
+   kubectl get pvc # checking the persistent volume claim
+   kubectl get nodes # cheking the nodes
+   ```
 
 8. Access the wep app in the browser :
 

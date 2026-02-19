@@ -26,8 +26,8 @@
 ## About the project  
 
 <p align="center">
-  <img src="./static/kubernetes.png" height="220" width="220" style="margin-right:20px;">
-  <img src="./static/mongodb.png" height="220" width="220">
+  <img src="./static/kubernetes.png" height="150" width="150" style="margin-right:20px;">
+  <img src="./static/mongodb.png" height="150" width="150">
 </p>
 
 

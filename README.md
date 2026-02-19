@@ -27,7 +27,7 @@
 
 <p align="center">
   <img src="./static/kubernetes.png" height="220" width="220" style="margin-right:20px;">
-  <img src="./static/mongodb.png" height="160" width="160">
+  <img src="./static/mongodb.png" height="220" width="220">
 </p>
 
 

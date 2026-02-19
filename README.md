@@ -25,17 +25,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About the project  
 
-<table align="center">
-  <tr>
-    <td align="center" valign="middle">
-      <img src="./static/kubernetes.png" width="200">
-    </td>
-    <td align="center" valign="middle">
-      <img src="./static/mongodb.png" width="200">
-    </td>
-  </tr>
-</table>
-
+<p align="center">
+  <img src="./static/kubernetes.png" height="220" width="220" style="margin-right:20px;">
+  <img src="./static/mongodb.png" height="160" width="160">
+</p>
 
 
 This project explains and demonstrates how to deploy a simple MongoDB cluster within Kubernetes. Through this hands-on demonstration, we aim to provide practical insights into successfully setting up MongoDB and performing basic operations within a real-world scenario.

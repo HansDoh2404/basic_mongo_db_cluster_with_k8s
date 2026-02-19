@@ -23,13 +23,24 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About the project
+## About the project  
+
+<p align="center">
+  <img src="./static/kubernetes.png" height="220" width="220" style="margin-right:20px;">
+  <img src="./static/mongodb.png" height="220" width="220">
+</p>
+
+
+This project explains and demonstrates how to deploy a simple MongoDB cluster within Kubernetes. Through this hands-on demonstration, we aim to provide practical insights into successfully setting up MongoDB and performing basic operations within a real-world scenario.
+
+<!-- ARCHITECTURE -->
+## Architecture
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/HansDoh2404/basic_mongo_db_cluster_with_k8s.git">
-  <img src="architecture.png" alt="archi" width="800" height="800">
+  <img src="./static/architecture.png" alt="archi" width="800" height="800">
   </a>
  
   <h3 align="center">basic_mongo_db_cluster_with_k8s</h3>
@@ -47,8 +58,6 @@
     <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p> -->
 </div>
-
-This project explains and demonstrates how to deploy a simple MongoDB cluster within Kubernetes. Through this hands-on demonstration, we aim to provide practical insights into successfully setting up MongoDB and performing basic operations within a real-world scenario.
 
 <!-- GETTING STARTED -->
 ## Prerequisites
